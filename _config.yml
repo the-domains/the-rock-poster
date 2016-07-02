@@ -1,5 +1,6 @@
-layout_spectrum: 0.428412685636431
 typography_spectrum: 0.19576527457684278
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5806072175037116
   lightness: 0.21639863308519125
@@ -11,7 +12,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-name: The Rock Poster
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b94fa3bb-7bb9-473b-be4b-3bef3ffb138d.jpg
+layout_spectrum: 0.428412685636431
 author:
-  name: Steve norris
+  name: Steve Norris
   email: stevenorris41@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a56d301-49ed-4003-adc4-c482e6c5ff1e.jpg
+name: The Rock Poster
