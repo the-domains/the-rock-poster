@@ -20,18 +20,18 @@ collections:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a56d301-49ed-4003-adc4-c482e6c5ff1e.jpg
 color:
-  saturation: 1
-  brandStrength: 0.5985663
-  lightness: 0.7867383
+  saturation: 0.9657200544606894
+  brandStrength: 0.32277054945006967
+  lightness: 0.6844672525767237
   brandColors:
-    - '#0F1217'
-    - '#525C68'
-    - '#009EAC'
-    - '#C0DAF3'
-    - '#FBFF84'
-  rhythmicContrast: 1
-typography_spectrum: 0.1957652745768428
-layout_spectrum: 0.9426523
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  rhythmicContrast: 0.002730141393840313
+typography_spectrum: 0.568560291081667
+layout_spectrum: 0.8241720758378506
 content_rating:
   adult: false
 name: The Rock Poster
