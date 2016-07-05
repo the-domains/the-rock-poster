@@ -1,25 +1,37 @@
-typography_spectrum: 0.19576527457684278
-content_rating:
-  adult: false
-color:
-  brandStrength: 0.5806072175037116
-  lightness: 0.21639863308519125
-  saturation: 0.5792650820221752
-  rhythmicContrast: 0.011866291286423802
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b94fa3bb-7bb9-473b-be4b-3bef3ffb138d.jpg
-layout_spectrum: 0.428412685636431
 author:
   name: Steve Norris
   email: stevenorris41@gmail.com
+title: Documented Through Art
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/b94fa3bb-7bb9-473b-be4b-3bef3ffb138d.jpg
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a56d301-49ed-4003-adc4-c482e6c5ff1e.jpg
+color:
+  saturation: 1
+  brandStrength: 0.5985663
+  lightness: 0.7867383
+  brandColors:
+    - '#0F1217'
+    - '#525C68'
+    - '#009EAC'
+    - '#C0DAF3'
+    - '#FBFF84'
+  rhythmicContrast: 1
+typography_spectrum: 0.1957652745768428
+layout_spectrum: 0.428412685636431
+content_rating:
+  adult: false
 name: The Rock Poster
-title: Documented Through Art
