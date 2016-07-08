@@ -11,27 +11,27 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a56d301-49ed-4003-adc4-c482e6c5ff1e.jpg
 color:
   saturation: 0.9657200544606894
-  brandStrength: 0.32277054945006967
-  lightness: 0.6844672525767237
+  brandStrength: 0.3227705494500697
+  rhythmicContrast: 0.002730141393840313
   brandColors:
     - '#004358'
     - '#1F8A70'
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
-  rhythmicContrast: 0.002730141393840313
+  lightness: 0.6844672525767237
 typography_spectrum: 0.568560291081667
-layout_spectrum: 0.8241720758378506
+layout_spectrum: 1
 content_rating:
   adult: false
 name: The Rock Poster
