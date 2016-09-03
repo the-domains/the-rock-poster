@@ -16,11 +16,11 @@ color:
   brandStrength: 0.5412186
   lightness: 0.6021506
   brandColors:
-    - '#8D95B9'
-    - '#070908'
-    - '#033420'
-    - '#544E56'
-    - '#DFE7EA'
+    - '#E6E2E3'
+    - '#332347'
+    - '#FA9464'
+    - '#EC2947'
+    - '#30A5AE'
   rhythmicContrast: 0.1971326
 name: The Rock Poster
 author:
